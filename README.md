@@ -1,5 +1,3 @@
-# vue-ts-example
-
 ## Project setup
 ```
 yarn install
