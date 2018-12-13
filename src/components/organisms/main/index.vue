@@ -1,6 +1,8 @@
 <template>
   <main>
     mainコンポーネント
+    <div>{{ counter }}</div>
+    <button @click="increment">count up</button>
   </main>
 </template>
 

@@ -1,6 +1,6 @@
 <template>
   <header>
-    Headerコンポーネント
+    <h1>{{ title }}</h1>
   </header>
 </template>
 

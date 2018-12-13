@@ -42,4 +42,4 @@
 
 </style>
 
-<script lang="ts" src="container.ts"></script>
+<script lang="ts" src="./container.ts"></script>
